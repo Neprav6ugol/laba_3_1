@@ -1,0 +1,21 @@
+# ninja log v6
+31	4180	7645523067303779	ar_4_autogen/timestamp	6ae7989a45d83ae6
+31	4180	7645523067303779	ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+31	4180	7645523067303779	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+31	4180	7645523067303779	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/timestamp	6ae7989a45d83ae6
+4205	8889	7645523070066472	CMakeFiles/ar_4.dir/main.cpp.obj	69e4cf948ad3a406
+108	664	7645523421405443	ar_4_autogen/timestamp	6ae7989a45d83ae6
+108	664	7645523421405443	ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+108	664	7645523421405443	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/timestamp	6ae7989a45d83ae6
+108	664	7645523421405443	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+667	7241	7645523426995833	CMakeFiles/ar_4.dir/ar_4_autogen/mocs_compilation.cpp.obj	d76d2a2a537c74b7
+694	7325	7645523427265889	CMakeFiles/ar_4.dir/mycontroller.cpp.obj	95feb9d0c9f3f9d4
+683	8054	7645523427155850	CMakeFiles/ar_4.dir/mymodel.cpp.obj	f68afb03996ffbde
+83	2139	7645523754540107	ar_4_autogen/timestamp	6ae7989a45d83ae6
+83	2139	7645523754540107	ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+83	2139	7645523754540107	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/timestamp	6ae7989a45d83ae6
+83	2139	7645523754540107	C:/Users/Jokir/Documents/ar_4/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/ar_4_autogen/mocs_compilation.cpp	6ae7989a45d83ae6
+2148	6986	7645523756510465	CMakeFiles/ar_4.dir/main.cpp.obj	69e4cf948ad3a406
+2141	7577	7645523756450245	CMakeFiles/ar_4.dir/ar_4_autogen/mocs_compilation.cpp.obj	d76d2a2a537c74b7
+2156	8410	7645523756600301	CMakeFiles/ar_4.dir/mainwindow.cpp.obj	e1601d99212e7f25
+8411	9265	7645523819153795	ar_4.exe	997189da14389d69
